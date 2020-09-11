@@ -1,0 +1,9 @@
+
+.back-button-map-preview {
+    position: absolute;
+    left: 0;
+    top: 6.7%;
+    z-index: 1000;
+    margin: 5px;
+    background: #2d98d4;
+}
